@@ -1,0 +1,438 @@
+year,prestige,industry,hrs1,commute,wrkslf,divorce,spwrkslf,spocc10,spind10,Industry Category,Spouse Industry Category
+1986,78.0,colleges and universities,40.0,30.0,someone else,yes,someone else,first-line supervisors of office and administrative support workers,"colleges and universities, including junior colleges",Education,Education
+1986,50.0,apparel and accessories,35.0,60.0,someone else,no,someone else,"bailiffs, correctional officers, and jailers","justice, public order, and safety activities",Other,Other
+1986,22.0,detective and protective services,40.0,70.0,someone else,yes,someone else,registered nurses,employment services,Other,Other
+1986,45.0,crude petroleum and natural gas extractions,45.0,60.0,someone else,no,self-employed,prepress technicians and workers,advertising and related services,Other,Business & Finance
+1986,40.0,electric light and power,60.0,25.0,someone else,no,someone else,driver/sales workers and truck drivers,fuel dealers,Other,Other
+1986,40.0,motor vehicles and motor vehicle equipment,40.0,20.0,someone else,no,someone else,childcare workers,child day care services,Manufacturing & Engineering,Other
+1986,60.0,elementary and secondary schools,35.0,15.0,someone else,no,someone else,carpenters,construction,Education,Manufacturing & Engineering
+1986,57.0,"accounting, auditing, and bookkeeping services",80.0,60.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,47.0,insurance,40.0,10.0,someone else,no,someone else,insurance sales agents,insurance carriers and related activities,Business & Finance,Business & Finance
+1986,36.0,elementary and secondary schools,15.0,5.0,someone else,yes,someone else,parts salespersons,"wholesale electronic markets, agents and brokers",Education,Other
+1986,42.0,"business services, n.e.c.",50.0,15.0,someone else,no,someone else,first-line supervisors of office and administrative support workers,newspaper publishers,Business & Finance,Other
+1986,40.0,general building contractors,40.0,45.0,someone else,yes,someone else,dining room and cafeteria attendants and bartender helpers,elementary and secondary schools,Other,Education
+1986,50.0,miscellaneous repair services,60.0,20.0,self-employed,no,self-employed,retail salespersons,used merchandise stores,Other,Other
+1986,54.0,aircraft and parts,52.0,97.0,someone else,no,someone else,retail salespersons,furniture and home furnishings stores,Other,Other
+1986,33.0,beauty shops,42.0,8.0,someone else,no,someone else,miscellaneous entertainment attendants and related workers,motion pictures and video industries,Other,Other
+1986,26.0,grain-mill products,32.0,45.0,someone else,no,someone else,laundry and dry-cleaning workers,hospitals,Other,Healthcare
+1986,47.0,computer programming services,36.0,40.0,someone else,yes,someone else,"military, rank not specified",u.s. army,Other,Other
+1986,50.0,department and mail order establishments,40.0,45.0,someone else,no,someone else,marketing and sales managers,department stores and discount stores,Other,Retail & Services
+1986,34.0,"apparel and accessories stores, except shoe stores",30.0,30.0,someone else,no,someone else,"sales representatives,  wholesale and manufacturing","groceries and related products, merchant wholesalers",Other,Other
+1986,46.0,religious organizations,8.0,45.0,self-employed,yes,self-employed,bakers,retail bakeries,Other,Other
+1986,23.0,horticultural services,40.0,30.0,self-employed,yes,self-employed,designers,specialized design services,Other,Other
+1986,51.0,business management and consulting services,40.0,30.0,someone else,no,self-employed,artists and related workers,"independent artists, performing arts, spectator sports, and related industries",Other,Other
+1986,45.0,computer programming services,32.0,2.0,someone else,no,someone else,"cutting, punching, and press machine setters, operators, and tenders, metal and plastic",ordnance,Other,Other
+1986,45.0,"business services, n.e.c.",48.0,10.0,someone else,no,self-employed,construction managers,construction,Business & Finance,Manufacturing & Engineering
+1986,68.0,state public administration,40.0,20.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,29.0,limited price variety stores,40.0,30.0,someone else,no,someone else,"electrical, electronics, and electromechanical assemblers",commercial and service industry machinery manufacturing,Other,Other
+1986,71.0,theaters and motion pictures,40.0,20.0,someone else,no,someone else,designers,grocery stores,Other,Retail & Services
+1986,51.0,"business services, n.e.c.",10.0,0.0,self-employed,no,self-employed,artists and related workers,"independent artists, performing arts, spectator sports, and related industries",Business & Finance,Other
+1986,32.0,"laundering, cleaning, and other garment services",40.0,0.0,self-employed,no,someone else,"managers, all other",not specified manufacturing industries,Other,Other
+1986,20.0,eating and drinking places,8.0,20.0,someone else,no,someone else,supervisors of transportation and material moving workers,administration of economic programs and space research,Other,Other
+1986,32.0,street railways and bus lines,72.0,17.0,someone else,yes,someone else,special education teachers,elementary and secondary schools,Other,Education
+1986,47.0,electric light and power,40.0,30.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,50.0,"printing, publishing, and allied industries, except newspapers",40.0,2.0,self-employed,no,someone else,secretaries and administrative assistants,"professional and commercial equipment and supplies, merchant wholesalers",Other,Other
+1986,16.0,elementary and secondary schools,40.0,30.0,someone else,no,someone else,cooks,elementary and secondary schools,Education,Education
+1986,44.0,insurance,65.0,32.0,self-employed,no,someone else,"news analysts, reporters and correspondents",newspaper publishers,Business & Finance,Other
+1986,34.0,hospitals,40.0,75.0,someone else,no,someone else,public relations specialists,radio and television broadcasting and cable subscription programming,Healthcare,Other
+1986,76.0,"printing, publishing, and allied industries, except newspapers",60.0,15.0,someone else,no,someone else,education administrators,"colleges and universities, including junior colleges",Other,Education
+1986,50.0,"agricultural services, except horticultural",50.0,90.0,self-employed,no,someone else,order clerks,banking and related activities,Other,Business & Finance
+1986,33.0,"blast furnaces, steel works, rolling and finishing mills",40.0,35.0,someone else,no,someone else,secondary school teachers,elementary and secondary schools,Other,Education
+1986,69.0,"paints, varnishes, and related products",40.0,30.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,61.0,local public administration,48.0,2.0,someone else,no,someone else,secretaries and administrative assistants,religious organizations,Other,Other
+1986,52.0,miscellaneous personal services,55.0,20.0,self-employed,yes,someone else,marketing and sales managers,"periodical, book, and directory publishers",Retail & Services,Other
+1986,20.0,motor vehicle dealers,55.0,2.0,self-employed,no,someone else,tellers,banking and related activities,Other,Business & Finance
+1986,76.0,legal services,53.0,5.0,self-employed,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,32.0,aircraft and parts,50.0,20.0,someone else,no,someone else,file clerks,department stores and discount stores,Other,Retail & Services
+1986,50.0,furniture and home furnishing stores,35.0,15.0,self-employed,yes,someone else,registered nurses,"residential care facilities, without nursing",Other,Other
+1986,78.0,colleges and universities,37.0,10.0,someone else,no,someone else,counselors,vocational rehabilitation services,Education,Other
+1986,78.0,colleges and universities,50.0,10.0,someone else,no,someone else,postsecondary teachers,elementary and secondary schools,Education,Education
+1986,39.0,elementary and secondary schools,30.0,5.0,someone else,no,someone else,janitors and building cleaners,nursing care facilities,Education,Healthcare
+1986,50.0,not specified chemicals and allied products,50.0,25.0,someone else,no,someone else,"office clerks, general",libraries and archives,Other,Other
+1986,31.0,machinery equipment and supplies,40.0,10.0,self-employed,no,someone else,stock clerks and order fillers,vending machine operators,Other,Other
+1986,29.0,motor vehicles and motor vehicle equipment,40.0,10.0,someone else,no,someone else,teacher assistants,elementary and secondary schools,Manufacturing & Engineering,Education
+1986,22.0,local public administration,15.0,15.0,someone else,no,someone else,"production workers, all other",motor vehicles and motor vehicle equipment manufacturing,Other,Manufacturing & Engineering
+1986,36.0,federal public administration,40.0,15.0,someone else,yes,someone else,human resources workers,motor vehicles and motor vehicle equipment manufacturing,Other,Manufacturing & Engineering
+1986,32.0,fabricated structural metal products,40.0,25.0,someone else,no,someone else,retail salespersons,clothing stores,Other,Other
+1986,63.0,elementary and secondary schools,40.0,15.0,someone else,no,someone else,"bookkeeping, accounting, and auditing clerks",motor vehicles and motor vehicle equipment manufacturing,Education,Manufacturing & Engineering
+1986,46.0,insurance,38.0,30.0,someone else,yes,self-employed,retail salespersons,not specified retail trade,Business & Finance,Retail & Services
+1986,36.0,insurance,37.0,20.0,someone else,no,someone else,"office clerks, general","colleges and universities, including junior colleges",Business & Finance,Education
+1986,50.0,jewelry stores,45.0,60.0,self-employed,no,self-employed,first-line supervisors of retail sales workers,"jewelry, luggage, and leather goods stores",Other,Other
+1986,60.0,elementary and secondary schools,24.0,10.0,someone else,no,someone else,"architects, except naval","architectural, engineering, and related services",Education,Manufacturing & Engineering
+1986,29.0,banking,50.0,75.0,someone else,no,someone else,secretaries and administrative assistants,"motor vehicles, parts and supplies, merchant wholesalers",Business & Finance,Manufacturing & Engineering
+1986,36.0,electric-gas utilities,40.0,60.0,someone else,yes,self-employed,"architects, except naval","architectural, engineering, and related services",Other,Manufacturing & Engineering
+1986,62.0,jewelry stores,50.0,10.0,someone else,yes,someone else,library technicians,elementary and secondary schools,Other,Education
+1986,47.0,trucking service,45.0,35.0,someone else,no,someone else,retail salespersons,"radio, tv, and computer stores",Other,Other
+1986,23.0,general building contractors,60.0,60.0,someone else,yes,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,48.0,federal public administration,40.0,20.0,someone else,yes,someone else,secretaries and administrative assistants,national security and international affairs,Other,Other
+1986,36.0,convalescent institutions,32.0,15.0,someone else,yes,someone else,driver/sales workers and truck drivers,truck transportation,Other,Other
+1986,48.0,newspaper publishing and printing,35.0,40.0,someone else,no,someone else,machinists,"navigational, measuring, electromedical, and control instruments manufacturing",Other,Other
+1986,47.0,radio broadcasting and television,55.0,25.0,someone else,no,someone else,secretaries and administrative assistants,employment services,Other,Other
+1986,82.0,hospitals,89.0,40.0,someone else,no,someone else,"office machine operators, except computer",banking and related activities,Healthcare,Business & Finance
+1986,50.0,computer programming services,89.0,0.0,self-employed,no,someone else,database administrators,aerospace product and parts manufacturing,Other,Other
+1986,82.0,local public administration,44.0,28.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,39.0,eating and drinking places,45.0,5.0,someone else,no,someone else,miscellaneous assemblers and fabricators,aerospace product and parts manufacturing,Other,Other
+1986,32.0,"radio, t.v., and communication equipment",62.0,10.0,someone else,no,someone else,cleaners of vehicles and equipment,motor vehicles and motor vehicle equipment manufacturing,Other,Manufacturing & Engineering
+1986,34.0,"hardware, plumbing, and heating supplies",47.0,8.0,someone else,no,someone else,"pressers, textile, garment, and related materials",drycleaning and laundry services,Other,Other
+1986,36.0,metalworking machinery,40.0,10.0,someone else,yes,self-employed,lawyers,legal services,Other,Other
+1986,45.0,"machinery, except electrical, n.e.c.",48.0,20.0,someone else,no,someone else,receptionists and information clerks,truck transportation,Other,Other
+1986,48.0,crude petroleum and natural gas extractions,48.0,30.0,someone else,no,someone else,secretaries and administrative assistants,investigation and security services,Other,Other
+1986,35.0,"real estate, incl. real estate-insurance-law offices",45.0,45.0,someone else,no,someone else,secretaries and administrative assistants,radio and television broadcasting and cable subscription programming,Business & Finance,Other
+1986,50.0,general building contractors,45.0,30.0,self-employed,no,someone else,telephone operators,wired telecommunications carriers,Other,Other
+1986,69.0,engineering and architectural services,40.0,12.0,someone else,no,someone else,secretaries and administrative assistants,offices of physicians,Manufacturing & Engineering,Healthcare
+1986,57.0,"accounting, auditing, and bookkeeping services",70.0,30.0,someone else,no,someone else,retail salespersons,clothing stores,Other,Other
+1986,68.0,hospitals,55.0,25.0,someone else,no,someone else,miscellaneous health technologists and technicians,"colleges and universities, including junior colleges",Healthcare,Education
+1986,50.0,motor vehicles and motor vehicle equipment,40.0,30.0,self-employed,no,someone else,travel agents,travel arrangements and reservation services,Manufacturing & Engineering,Other
+1986,48.0,advertising,38.0,5.0,someone else,no,someone else,highway maintenance workers,construction,Other,Manufacturing & Engineering
+1986,40.0,general building contractors,24.0,15.0,someone else,no,self-employed,maids and housekeeping cleaners,private households,Other,Other
+1986,57.0,colleges and universities,40.0,70.0,someone else,no,self-employed,lawyers,legal services,Education,Other
+1986,32.0,"plastics, synthetics and resins, except fibers",45.0,30.0,someone else,no,someone else,"electrical, electronics, and electromechanical assemblers",miscellaneous fabricated metal products manufacturing,Other,Other
+1986,17.0,general building contractors,35.0,15.0,someone else,no,someone else,clinical laboratory technologists and technicians,hospitals,Other,Healthcare
+1986,50.0,"tire, battery, and accessory dealers",25.0,0.0,self-employed,no,someone else,cooks,elementary and secondary schools,Other,Education
+1986,12.0,elementary and secondary schools,12.0,15.0,someone else,yes,someone else,cashiers,department stores and discount stores,Education,Retail & Services
+1986,48.0,federal public administration,60.0,30.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,53.0,water transportation,40.0,10.0,someone else,yes,someone else,"managers, all other",national security and international affairs,Other,Other
+1986,37.0,"general contractors, except building",40.0,20.0,someone else,no,someone else,first-line supervisors of office and administrative support workers,newspaper publishers,Other,Other
+1986,46.0,"wholesalers, n.e.c.",40.0,5.0,someone else,no,someone else,computer programmers,executive offices and legislative bodies,Other,Other
+1986,51.0,"security, commodity brokerage, and investment companies",60.0,30.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,82.0,"health services, n.e.c.",60.0,75.0,someone else,no,someone else,miscellaneous media and communication  workers,newspaper publishers,Other,Other
+1986,47.0,insurance,50.0,15.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Business & Finance,Education
+1986,40.0,glass and glass products,40.0,45.0,someone else,no,someone else,maids and housekeeping cleaners,services to buildings and dwellings,Other,Other
+1986,39.0,"blast furnaces, steel works, rolling and finishing mills",40.0,20.0,someone else,no,someone else,word processors and typists,scientific research and development services,Other,Other
+1986,51.0,"health services, n.e.c.",40.0,25.0,someone else,no,someone else,physicians and surgeons,hospitals,Other,Healthcare
+1986,26.0,"business services, n.e.c.",35.0,20.0,self-employed,no,self-employed,"hairdressers, hairstylists, and cosmetologists",beauty salons,Business & Finance,Other
+1986,50.0,department and mail order establishments,70.0,30.0,someone else,no,someone else,secretaries and administrative assistants,executive offices and legislative bodies,Other,Other
+1986,50.0,scrap and waste materials,60.0,0.0,self-employed,no,someone else,"interviewers, except eligibility and loan","other professional, scientific, and technical services",Other,Other
+1986,36.0,convalescent institutions,8.0,60.0,someone else,no,someone else,postal service clerks,postal service,Other,Other
+1986,36.0,state public administration,36.0,45.0,someone else,no,someone else,retail salespersons,department stores and discount stores,Other,Retail & Services
+1986,18.0,agricultural production,80.0,0.0,someone else,no,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,50.0,automobile repair and related services,40.0,0.0,self-employed,no,someone else,"packers and packagers, hand",restaurants and other food services,Other,Other
+1986,36.0,banking,35.0,20.0,self-employed,no,someone else,operations research analysts,management of companies and enterprises,Business & Finance,Other
+1986,31.0,department and mail order establishments,20.0,20.0,someone else,no,someone else,radio and telecommunications equipment installers and repairers,wired telecommunications carriers,Other,Other
+1986,49.0,miscellaneous entertainment and recreation services,20.0,10.0,someone else,no,someone else,compliance officers,"justice, public order, and safety activities",Other,Other
+1986,41.0,motor vehicles and motor vehicle equipment,40.0,30.0,someone else,yes,someone else,credit counselors and loan officers,non-depository credit and related activities,Manufacturing & Engineering,Other
+1986,15.0,limited price variety stores,38.0,15.0,someone else,no,someone else,packaging and filling machine operators and tenders,fruit and vegetable preserving and specialty food manufacturing,Other,Other
+1986,40.0,"paints, varnishes, and related products",40.0,20.0,someone else,no,someone else,secretaries and administrative assistants,household appliance stores,Other,Other
+1986,22.0,federal public administration,40.0,22.0,someone else,no,someone else,secretaries and administrative assistants,insurance carriers and related activities,Other,Business & Finance
+1986,45.0,miscellaneous entertainment and recreation services,40.0,5.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,39.0,department and mail order establishments,42.0,20.0,someone else,no,someone else,first-line supervisors of production and operating workers,"water, steam, air-conditioning, and irrigation systems",Other,Other
+1986,51.0,household appliances,40.0,15.0,someone else,no,someone else,licensed practical and licensed vocational nurses,hospitals,Other,Healthcare
+1986,49.0,residential welfare facilities,20.0,5.0,someone else,no,someone else,data entry keyers,"data processing, hosting, and related services",Other,Other
+1986,43.0,not specified educational services,32.0,2.0,someone else,no,someone else,"office and administrative support workers, all other",individual and family services,Education,Other
+1986,49.0,local public administration,40.0,5.0,someone else,no,someone else,secretaries and administrative assistants,"electronic component and product manufacturing, n.e.c.",Other,Other
+1986,29.0,apparel and accessories,42.0,5.0,someone else,yes,someone else,secretaries and administrative assistants,fuel dealers,Other,Other
+1986,45.0,grocery stores,12.0,20.0,someone else,no,someone else,"laborers and freight, stock, and material movers, hand","electrical lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.",Retail & Services,Other
+1986,45.0,"yarn, thread, and fabric mills",40.0,5.0,someone else,no,someone else,industrial and refractory machinery mechanics,"fabric mills, except knitting mills",Other,Other
+1986,36.0,convalescent institutions,40.0,2.0,someone else,no,someone else,"laborers and freight, stock, and material movers, hand","groceries and related products, merchant wholesalers",Other,Other
+1986,62.0,"health services, n.e.c.",40.0,20.0,someone else,no,someone else,first-line supervisors of production and operating workers,"construction, and mining and oil and gas field machinery manufacturing",Other,Manufacturing & Engineering
+1986,50.0,miscellaneous manufacturing industries,89.0,3.0,someone else,no,someone else,"nursing, psychiatric, and home health aides",nursing care facilities,Other,Healthcare
+1986,48.0,nonprofit membership organizations,55.0,15.0,someone else,yes,someone else,preschool and kindergarten teachers,elementary and secondary schools,Other,Education
+1986,37.0,railroads and railway express,40.0,15.0,someone else,no,someone else,"metal workers and plastic workers, all other",miscellaneous fabricated metal products manufacturing,Other,Other
+1986,63.0,elementary and secondary schools,35.0,10.0,someone else,yes,someone else,first-line supervisors of housekeeping and janitorial workers,offices of physicians,Education,Healthcare
+1986,50.0,"laundering, cleaning, and other garment services",30.0,5.0,self-employed,no,self-employed,laundry and dry-cleaning workers,drycleaning and laundry services,Other,Other
+1986,41.0,federal public administration,32.0,20.0,someone else,no,someone else,driver/sales workers and truck drivers,truck transportation,Other,Other
+1986,15.0,miscellaneous entertainment and recreation services,42.0,10.0,someone else,no,someone else,gaming cage workers,"other amusement, gambling, and recreation industries",Other,Other
+1986,74.0,offices of dentists,32.0,10.0,self-employed,no,self-employed,secretaries and administrative assistants,offices of dentists,Other,Other
+1986,32.0,meat products,53.0,10.0,someone else,no,someone else,telephone operators,wired telecommunications carriers,Other,Other
+1986,47.0,"not specified electrical machinery, equipment, and supplies",40.0,25.0,someone else,no,someone else,retail salespersons,furniture and home furnishings stores,Other,Other
+1986,28.0,dairy products,40.0,25.0,someone else,no,someone else,credit counselors and loan officers,"savings institutions, including credit unions",Other,Other
+1986,33.0,beauty shops,40.0,4.0,self-employed,no,someone else,"property, real estate, and community association managers",real estate,Other,Business & Finance
+1986,31.0,liquor stores,40.0,30.0,someone else,no,someone else,financial managers,banking and related activities,Other,Business & Finance
+1986,27.0,electronic computing equipment,38.0,35.0,self-employed,no,someone else,"first-line supervisors of mechanics, installers, and repairers","electronic component and product manufacturing, n.e.c.",Other,Other
+1986,47.0,postal service,40.0,12.0,someone else,no,someone else,designers,construction,Other,Manufacturing & Engineering
+1986,50.0,computer programming services,40.0,25.0,someone else,no,someone else,"office clerks, general",real estate,Other,Business & Finance
+1986,50.0,"pulp, paper and paperboard mills",60.0,25.0,someone else,no,someone else,"claims adjusters, appraisers, examiners, and investigators",insurance carriers and related activities,Other,Business & Finance
+1986,48.0,drug stores,27.0,7.0,someone else,no,someone else,first-line supervisors of retail sales workers,grocery stores,Other,Retail & Services
+1986,36.0,employment and temporary help agencies,40.0,60.0,someone else,no,someone else,electrical and electronics engineers,wired telecommunications carriers,Other,Other
+1986,35.0,construction and material handling machines,40.0,45.0,someone else,no,someone else,miscellaneous assemblers and fabricators,"sporting and athletic goods, and doll, toy and game manufacturing",Manufacturing & Engineering,Other
+1986,33.0,beauty shops,42.0,10.0,someone else,no,someone else,industrial production managers,"coating, engraving, heat treating and allied activities",Other,Other
+1986,34.0,"business services, n.e.c.",42.0,35.0,someone else,yes,someone else,"compensation, benefits, and job analysis specialists",aircraft and parts manufacturing,Business & Finance,Other
+1986,62.0,hospitals,40.0,10.0,someone else,no,someone else,tool and die makers,motor vehicles and motor vehicle equipment manufacturing,Healthcare,Manufacturing & Engineering
+1986,42.0,postal service,40.0,20.0,someone else,no,someone else,receptionists and information clerks,beauty salons,Other,Other
+1986,41.0,local public administration,18.0,5.0,someone else,no,someone else,"production workers, all other","resin, synthetic rubber and fibers, and filaments manufacturing",Other,Other
+1986,40.0,general building contractors,20.0,20.0,self-employed,no,someone else,"hairdressers, hairstylists, and cosmetologists",beauty salons,Other,Other
+1986,50.0,"electrical machinery, equipment, and supplies, n.e.c.",40.0,45.0,someone else,no,someone else,customer service representatives,not specified retail trade,Other,Retail & Services
+1986,36.0,convalescent institutions,40.0,15.0,someone else,no,someone else,accountants and auditors,"accounting, tax preparation, bookkeeping, and payroll services",Other,Other
+1986,62.0,convalescent institutions,25.0,5.0,someone else,no,someone else,aircraft pilots and flight engineers,air transportation,Other,Other
+1986,27.0,fabricated structural metal products,45.0,20.0,someone else,no,someone else,"shipping, receiving, and traffic clerks",paperboard containers and boxes,Other,Other
+1986,33.0,department and mail order establishments,40.0,35.0,someone else,no,someone else,maids and housekeeping cleaners,nursing care facilities,Other,Healthcare
+1986,47.0,motor vehicles and motor vehicle equipment,48.0,20.0,someone else,no,someone else,accountants and auditors,hospitals,Manufacturing & Engineering,Healthcare
+1986,31.0,miscellaneous paper and pulp products,40.0,30.0,someone else,yes,someone else,"industrial engineers, including health and safety",motor vehicles and motor vehicle equipment manufacturing,Other,Manufacturing & Engineering
+1986,36.0,private households,30.0,3.0,someone else,no,someone else,printing press operators,printing and related support activities,Other,Other
+1986,50.0,miscellaneous fabricated metal products,45.0,3.0,someone else,yes,someone else,secretaries and administrative assistants,construction,Other,Manufacturing & Engineering
+1986,22.0,miscellaneous entertainment and recreation services,40.0,12.0,someone else,yes,someone else,secretaries and administrative assistants,banking and related activities,Other,Business & Finance
+1986,39.0,eating and drinking places,50.0,15.0,someone else,no,self-employed,insurance sales agents,insurance carriers and related activities,Other,Business & Finance
+1986,46.0,retail bakeries,40.0,20.0,someone else,no,someone else,"painters, construction and maintenance",construction,Other,Manufacturing & Engineering
+1986,34.0,newspaper publishing and printing,40.0,15.0,someone else,yes,someone else,childcare workers,private households,Other,Other
+1986,71.0,aircraft and parts,40.0,20.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,69.0,engineering and architectural services,60.0,5.0,someone else,no,self-employed,childcare workers,private households,Manufacturing & Engineering,Other
+1986,50.0,federal public administration,40.0,15.0,someone else,yes,someone else,postal service mail carriers,postal service,Other,Other
+1986,34.0,grocery stores,35.0,15.0,someone else,no,someone else,"bookkeeping, accounting, and auditing clerks",banking and related activities,Retail & Services,Business & Finance
+1986,45.0,local public administration,40.0,10.0,someone else,no,someone else,secretaries and administrative assistants,"justice, public order, and safety activities",Other,Other
+1986,63.0,elementary and secondary schools,40.0,15.0,someone else,no,someone else,industrial truck and tractor operators,"animal food, grain, and oilseed milling",Education,Other
+1986,41.0,agricultural production,40.0,1.0,self-employed,no,someone else,bus drivers,bus service and urban transit,Other,Other
+1986,50.0,grain-mill products,52.0,5.0,someone else,yes,someone else,maids and housekeeping cleaners,traveler accommodation,Other,Other
+1986,40.0,farm machinery and equipment,40.0,5.0,someone else,yes,someone else,"hairdressers, hairstylists, and cosmetologists",beauty salons,Other,Other
+1986,20.0,food and related products,40.0,40.0,someone else,yes,someone else,reservation and transportation ticket agents and travel clerks,u.s. armed forces/n.s.,Other,Other
+1986,20.0,"bowling alleys, billiard and pool parlors",60.0,1.0,someone else,no,someone else,"managers, all other",not specified retail trade,Other,Retail & Services
+1986,33.0,barber shops,40.0,5.0,someone else,no,someone else,first-line supervisors of food preparation and serving workers,restaurants and other food services,Other,Other
+1986,23.0,aircraft and parts,40.0,20.0,someone else,no,someone else,"medical, dental, and ophthalmic laboratory technicians",miscellaneous nonmetallic mineral product manufacturing,Other,Other
+1986,36.0,"wholesalers, n.e.c.",40.0,50.0,someone else,no,someone else,driver/sales workers and truck drivers,"groceries and related products, merchant wholesalers",Other,Other
+1986,47.0,"commercial research, development, and testing labs",44.0,10.0,someone else,no,someone else,secretaries and administrative assistants,scientific research and development services,Other,Other
+1986,41.0,agricultural production,60.0,25.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,50.0,gasoline service stations,51.0,15.0,someone else,no,someone else,"combined food preparation and serving workers, including fast food",restaurants and other food services,Other,Other
+1986,45.0,automobile repair and related services,65.0,4.0,someone else,no,someone else,painting workers,aerospace product and parts manufacturing,Other,Other
+1986,23.0,private households,28.0,0.0,self-employed,no,someone else,first-line supervisors of production and operating workers,miscellaneous fabricated metal products manufacturing,Other,Other
+1986,51.0,not specified retail trade,56.0,25.0,someone else,no,someone else,"laborers and freight, stock, and material movers, hand",miscellaneous general merchandise stores,Retail & Services,Other
+1986,17.0,"machinery, except electrical, n.e.c.",40.0,15.0,someone else,no,someone else,cashiers,grocery stores,Other,Retail & Services
+1986,29.0,warehousing and storage,40.0,20.0,someone else,no,someone else,"bookkeeping, accounting, and auditing clerks",hospitals,Other,Healthcare
+1986,50.0,special trade contractors,50.0,15.0,self-employed,no,someone else,cashiers,grocery stores,Other,Retail & Services
+1986,50.0,banking,28.0,20.0,someone else,no,someone else,driver/sales workers and truck drivers,"wholesale electronic markets, agents and brokers",Business & Finance,Other
+1986,31.0,local public administration,40.0,15.0,someone else,no,self-employed,cabinetmakers and bench carpenters,furniture and related product manufacturing,Other,Other
+1986,43.0,trucking service,60.0,25.0,someone else,no,someone else,industrial production managers,not specified food industries,Other,Other
+1986,48.0,nonprofit membership organizations,20.0,10.0,someone else,yes,someone else,tool and die makers,iron and steel mills and steel product manufacturing,Other,Other
+1986,36.0,"blast furnaces, steel works, rolling and finishing mills",40.0,20.0,someone else,no,someone else,secretaries and administrative assistants,iron and steel mills and steel product manufacturing,Other,Other
+1986,34.0,"bowling alleys, billiard and pool parlors",40.0,3.0,someone else,no,someone else,miscellaneous entertainment attendants and related workers,"civic, social, advocacy organizations, and grantmaking and giving services",Other,Other
+1986,72.0,banking,40.0,15.0,someone else,no,self-employed,security and fire alarm systems installers,investigation and security services,Business & Finance,Other
+1986,23.0,private households,55.0,0.0,self-employed,yes,self-employed,animal trainers,support activities for agriculture and forestry,Other,Other
+1986,36.0,colleges and universities,20.0,25.0,someone else,no,someone else,printing press operators,printing and related support activities,Education,Other
+1986,18.0,agricultural production,45.0,3.0,someone else,no,someone else,secretaries and administrative assistants,"animal food, grain, and oilseed milling",Other,Other
+1986,62.0,engineering and architectural services,45.0,30.0,someone else,no,someone else,clinical laboratory technologists and technicians,outpatient care centers,Manufacturing & Engineering,Other
+1986,41.0,agricultural production,50.0,1.0,self-employed,no,someone else,cooks,elementary and secondary schools,Other,Education
+1986,40.0,special trade contractors,70.0,20.0,someone else,yes,someone else,secretaries and administrative assistants,construction,Other,Manufacturing & Engineering
+1986,50.0,banking,40.0,5.0,someone else,no,someone else,"grinding, lapping, polishing, and buffing machine tool setters,  operators, and tenders, metal and plastic",construction,Business & Finance,Manufacturing & Engineering
+1986,23.0,private households,8.0,1.0,self-employed,no,self-employed,construction laborers,construction,Other,Manufacturing & Engineering
+1986,62.0,hospitals,40.0,15.0,someone else,no,someone else,secondary school teachers,elementary and secondary schools,Healthcare,Education
+1986,50.0,department and mail order establishments,40.0,25.0,someone else,no,someone else,postsecondary teachers,"colleges and universities, including junior colleges",Other,Education
+1986,78.0,miscellaneous entertainment and recreation services,7.0,10.0,self-employed,no,someone else,"claims adjusters, appraisers, examiners, and investigators",insurance carriers and related activities,Other,Business & Finance
+1986,31.0,liquor stores,30.0,15.0,someone else,no,someone else,first-line supervisors of construction trades and extraction workers,construction,Other,Manufacturing & Engineering
+1986,46.0,offices of physicians,40.0,10.0,someone else,no,someone else,carpenters,miscellaneous wood products,Healthcare,Other
+1986,34.0,machinery equipment and supplies,40.0,20.0,someone else,no,someone else,sewing machine operators,cut and sew apparel manufacturing,Other,Other
+1986,50.0,banking,7.0,5.0,someone else,yes,self-employed,first-line supervisors of construction trades and extraction workers,construction,Business & Finance,Manufacturing & Engineering
+1986,48.0,local public administration,51.0,15.0,someone else,no,someone else,police and sheriff's patrol officers,"justice, public order, and safety activities",Other,Other
+1986,36.0,elementary and secondary schools,38.0,15.0,someone else,no,someone else,"electronic equipment installers and repairers, motor vehicles",building material and supplies dealers,Education,Other
+1986,32.0,"cutlery, hand tools, and other hardware",48.0,35.0,someone else,no,someone else,food preparation workers,elementary and secondary schools,Other,Education
+1986,26.0,elementary and secondary schools,29.0,20.0,someone else,yes,someone else,"laborers and freight, stock, and material movers, hand",truck transportation,Education,Other
+1986,18.0,"laundering, cleaning, and other garment services",35.0,20.0,someone else,no,someone else,construction laborers,construction,Other,Manufacturing & Engineering
+1986,29.0,beverage industries,40.0,15.0,someone else,no,someone else,"production workers, all other",glass and glass product manufacturing,Other,Other
+1986,36.0,convalescent institutions,40.0,5.0,someone else,yes,someone else,"religious workers, all other",religious organizations,Other,Other
+1986,36.0,"business services, n.e.c.",36.0,30.0,someone else,yes,someone else,stationary engineers and boiler operators,real estate,Business & Finance,Business & Finance
+1986,60.0,elementary and secondary schools,40.0,15.0,someone else,no,someone else,aircraft pilots and flight engineers,air transportation,Education,Other
+1986,40.0,general building contractors,40.0,60.0,someone else,no,someone else,bartenders,"drinking places, alcoholic beverages",Other,Other
+1986,30.0,special trade contractors,75.0,0.0,self-employed,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,32.0,"cement concrete, gypsum, and  plaster products",43.0,20.0,someone else,no,someone else,"bookkeeping, accounting, and auditing clerks","groceries and related products, merchant wholesalers",Other,Other
+1986,43.0,"real estate, incl. real estate-insurance-law offices",60.0,2.0,someone else,yes,self-employed,appraisers and assessors of real estate,real estate,Business & Finance,Business & Finance
+1986,62.0,hospitals,80.0,45.0,someone else,no,someone else,tool and die makers,metalworking machinery manufacturing,Healthcare,Other
+1986,56.0,ship and boat building and repairing,40.0,25.0,someone else,yes,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,50.0,furniture and home furnishing stores,15.0,0.0,self-employed,no,someone else,"military, rank not specified",u.s. navy,Other,Other
+1986,50.0,farm products-raw materials,61.0,15.0,someone else,yes,someone else,cashiers,grocery stores,Other,Retail & Services
+1986,41.0,drug stores,40.0,5.0,someone else,no,someone else,insurance underwriters,insurance carriers and related activities,Other,Business & Finance
+1986,47.0,insurance,40.0,60.0,someone else,no,someone else,retail salespersons,grocery stores,Business & Finance,Retail & Services
+1986,46.0,local public administration,40.0,20.0,someone else,yes,someone else,paralegals and legal assistants,legal services,Other,Other
+1986,50.0,"not specified electrical machinery, equipment, and supplies",50.0,60.0,someone else,no,someone else,waiters and waitresses,pharmacies and drug stores,Other,Other
+1986,60.0,elementary and secondary schools,45.0,10.0,someone else,no,someone else,biological scientists,administration of economic programs and space research,Education,Other
+1986,32.0,food and related products,70.0,5.0,someone else,no,someone else,"packers and packagers, hand","groceries and related products, merchant wholesalers",Other,Other
+1986,52.0,state public administration,40.0,5.0,someone else,no,someone else,first-line supervisors of office and administrative support workers,office supplies and stationery stores,Other,Other
+1986,63.0,elementary and secondary schools,40.0,7.0,someone else,no,someone else,retail salespersons,specialty food stores,Education,Other
+1986,31.0,detective and protective services,40.0,4.0,someone else,no,someone else,"office clerks, general","justice, public order, and safety activities",Other,Other
+1986,61.0,"blast furnaces, steel works, rolling and finishing mills",50.0,0.0,self-employed,no,self-employed,physicians and surgeons,offices of physicians,Other,Healthcare
+1986,45.0,computer programming services,40.0,12.0,someone else,no,someone else,"packers and packagers, hand",grocery stores,Other,Retail & Services
+1986,31.0,grocery stores,40.0,30.0,someone else,yes,someone else,stock clerks and order fillers,department stores and discount stores,Retail & Services,Retail & Services
+1986,37.0,automobile repair and related services,50.0,20.0,self-employed,no,someone else,"bookkeeping, accounting, and auditing clerks",restaurants and other food services,Other,Other
+1986,45.0,banking,30.0,20.0,someone else,no,someone else,driver/sales workers and truck drivers,drycleaning and laundry services,Business & Finance,Other
+1986,30.0,"not specified electrical machinery, equipment, and supplies",7.0,10.0,someone else,no,someone else,"inspectors, testers, sorters, samplers, and weighers",aerospace product and parts manufacturing,Other,Other
+1986,26.0,elementary and secondary schools,30.0,10.0,someone else,no,someone else,"laborers and freight, stock, and material movers, hand","hardware, plumbing and heating equipment, and supplies, merchant wholesalers",Education,Other
+1986,36.0,lumber and construction materials,40.0,20.0,someone else,no,someone else,machinists,miscellaneous wood products,Manufacturing & Engineering,Other
+1986,50.0,insurance,40.0,17.0,someone else,yes,someone else,first-line supervisors of production and operating workers,"electric power generation, transmission, and distribution",Business & Finance,Other
+1986,33.0,beauty shops,32.0,15.0,self-employed,no,someone else,driver/sales workers and truck drivers,"miscellaneous nondurable goods, merchant wholesalers",Other,Other
+1986,29.0,"yarn, thread, and fabric mills",60.0,10.0,someone else,yes,someone else,bus and truck mechanics and diesel engine specialists,truck transportation,Other,Other
+1986,29.0,"yarn, thread, and fabric mills",40.0,30.0,someone else,no,someone else,miscellaneous assemblers and fabricators,"miscellaneous manufacturing, n.e.c.",Other,Other
+1986,45.0,colleges and universities,45.0,5.0,someone else,no,someone else,first-line supervisors of non-retail sales workers,automotive equipment rental and leasing,Education,Other
+1986,62.0,hospitals,40.0,30.0,someone else,no,someone else,electrical and electronics engineers,"electric power generation, transmission, and distribution",Healthcare,Other
+1986,29.0,construction and material handling machines,40.0,10.0,someone else,no,someone else,sewing machine operators,cut and sew apparel manufacturing,Manufacturing & Engineering,Other
+1986,41.0,agricultural production,60.0,97.0,self-employed,no,someone else,secondary school teachers,elementary and secondary schools,Other,Education
+1986,37.0,hospitals,50.0,10.0,someone else,no,someone else,first-line supervisors of food preparation and serving workers,restaurants and other food services,Healthcare,Other
+1986,18.0,"laundering, cleaning, and other garment services",24.0,2.0,someone else,yes,someone else,miscellaneous assemblers and fabricators,ship and boat building,Other,Other
+1986,34.0,miscellaneous retail stores,48.0,25.0,self-employed,no,self-employed,first-line supervisors of retail sales workers,miscellaneous retail stores,Other,Other
+1986,45.0,electronic computing equipment,48.0,15.0,someone else,no,someone else,secondary school teachers,elementary and secondary schools,Other,Education
+1986,50.0,crude petroleum and natural gas extractions,45.0,20.0,someone else,no,someone else,human resources managers,support activities for mining,Other,Other
+1986,29.0,"agricultural services, except horticultural",32.0,20.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,34.0,"apparel and accessories stores, except shoe stores",25.0,30.0,someone else,no,someone else,"roustabouts, oil and gas",support activities for mining,Other,Other
+1986,50.0,"business services, n.e.c.",53.0,30.0,someone else,yes,self-employed,maids and housekeeping cleaners,private households,Business & Finance,Other
+1986,45.0,colleges and universities,40.0,30.0,someone else,no,someone else,diagnostic related technologists and technicians,hospitals,Education,Healthcare
+1986,50.0,warehousing and storage,50.0,3.0,self-employed,no,someone else,secondary school teachers,elementary and secondary schools,Other,Education
+1986,50.0,apparel and accessories,8.0,0.0,self-employed,no,someone else,retail salespersons,"sewing, needlework, and piece goods stores",Other,Other
+1986,36.0,department and mail order establishments,65.0,20.0,someone else,no,someone else,"meter readers, utilities",natural gas distribution,Other,Other
+1986,76.0,state public administration,55.0,30.0,someone else,no,someone else,accountants and auditors,industrial and miscellaneous chemicals,Other,Other
+1986,60.0,"health services, n.e.c.",40.0,30.0,self-employed,no,someone else,receptionists and information clerks,offices of chiropractors,Other,Other
+1986,37.0,miscellaneous repair services,40.0,15.0,someone else,no,someone else,maids and housekeeping cleaners,traveler accommodation,Other,Other
+1986,50.0,department and mail order establishments,47.0,30.0,someone else,no,someone else,secretaries and administrative assistants,household appliance stores,Other,Other
+1986,32.0,street railways and bus lines,40.0,30.0,someone else,no,someone else,secretaries and administrative assistants,elementary and secondary schools,Other,Education
+1986,34.0,"wholesalers, n.e.c.",55.0,35.0,someone else,no,someone else,first-line supervisors of office and administrative support workers,offices of physicians,Other,Healthcare
+1986,37.0,automobile repair and related services,60.0,2.0,self-employed,no,someone else,teacher assistants,elementary and secondary schools,Other,Education
+1986,47.0,special trade contractors,40.0,15.0,someone else,no,someone else,data entry keyers,cut and sew apparel manufacturing,Other,Other
+1986,48.0,computer programming services,40.0,45.0,someone else,no,someone else,file clerks,insurance carriers and related activities,Other,Business & Finance
+1986,50.0,banking,25.0,30.0,someone else,yes,self-employed,retail salespersons,other direct selling establishments,Business & Finance,Other
+1986,48.0,miscellaneous retail stores,38.0,15.0,someone else,no,someone else,first-line supervisors of construction trades and extraction workers,construction,Other,Manufacturing & Engineering
+1986,20.0,eating and drinking places,15.0,2.0,someone else,yes,someone else,air traffic controllers and airfield operations specialists,services incidental to transportation,Other,Other
+1986,60.0,elementary and secondary schools,23.0,15.0,someone else,no,someone else,"managers, all other","bakeries, except retail",Education,Other
+1986,82.0,offices of physicians,60.0,25.0,self-employed,no,someone else,first-line supervisors of retail sales workers,furniture and home furnishings stores,Healthcare,Other
+1986,41.0,special trade contractors,32.0,30.0,someone else,no,someone else,registered nurses,"residential care facilities, without nursing",Other,Other
+1986,62.0,hospitals,40.0,45.0,someone else,no,someone else,registered nurses,hospitals,Healthcare,Healthcare
+1986,60.0,"educational services, n.e.c.",25.0,25.0,someone else,yes,self-employed,construction managers,construction,Education,Manufacturing & Engineering
+1986,31.0,aircraft and parts,40.0,45.0,someone else,no,someone else,teacher assistants,elementary and secondary schools,Other,Education
+1986,46.0,"real estate, incl. real estate-insurance-law offices",20.0,2.0,someone else,no,self-employed,real estate brokers and sales agents,real estate,Business & Finance,Business & Finance
+1986,48.0,local public administration,48.0,20.0,someone else,no,someone else,emergency medical technicians and paramedics,hospitals,Other,Healthcare
+1986,68.0,state public administration,40.0,30.0,someone else,no,someone else,billing and posting clerks,automobile dealers,Other,Other
+1986,50.0,eating and drinking places,46.0,15.0,someone else,no,someone else,security guards and gaming surveillance officers,hospitals,Other,Healthcare
+1986,22.0,detective and protective services,40.0,10.0,someone else,yes,someone else,designers,retail florists,Other,Other
+1986,32.0,grocery stores,44.0,15.0,someone else,no,someone else,secretaries and administrative assistants,"machinery manufacturing, n.e.c.",Retail & Services,Other
+1986,50.0,computer programming services,55.0,20.0,someone else,yes,someone else,"information and record clerks, all other",elementary and secondary schools,Other,Education
+1986,50.0,"food stores, n.e.c.",50.0,10.0,someone else,no,someone else,accountants and auditors,insurance carriers and related activities,Other,Business & Finance
+1986,60.0,elementary and secondary schools,40.0,20.0,someone else,yes,someone else,speech-language  pathologists,elementary and secondary schools,Education,Education
+1986,61.0,elementary and secondary schools,50.0,14.0,someone else,no,self-employed,management analysts,"management, scientific, and technical consulting services",Education,Other
+1986,50.0,"business services, n.e.c.",30.0,30.0,self-employed,no,someone else,computer systems analysts,national security and international affairs,Business & Finance,Other
+1986,48.0,hospitals,48.0,30.0,someone else,no,someone else,operating engineers and other construction equipment  operators,construction,Healthcare,Manufacturing & Engineering
+1986,63.0,elementary and secondary schools,35.0,20.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Education,Education
+1986,44.0,"real estate, incl. real estate-insurance-law offices",65.0,10.0,someone else,yes,someone else,"bookkeeping, accounting, and auditing clerks",insurance carriers and related activities,Business & Finance,Business & Finance
+1986,32.0,fuel and ice dealers,57.0,20.0,someone else,yes,someone else,data entry keyers,"data processing, hosting, and related services",Other,Other
+1986,22.0,elementary and secondary schools,9.0,3.0,someone else,no,someone else,radio and telecommunications equipment installers and repairers,wired telecommunications carriers,Education,Other
+1986,26.0,special trade contractors,16.0,35.0,someone else,yes,someone else,veterinary assistants and laboratory animal caretakers,veterinary services,Other,Other
+1986,44.0,"real estate, incl. real estate-insurance-law offices",50.0,20.0,self-employed,yes,self-employed,real estate brokers and sales agents,real estate,Business & Finance,Business & Finance
+1986,50.0,radio broadcasting and television,60.0,0.0,self-employed,yes,self-employed,producers and directors,motion pictures and video industries,Other,Other
+1986,39.0,telephone (wire and radio),40.0,75.0,someone else,yes,someone else,receptionists and information clerks,individual and family services,Other,Other
+1986,46.0,"accounting, auditing, and bookkeeping services",40.0,40.0,someone else,no,self-employed,"farmers, ranchers, and other agricultural managers",crop production,Other,Other
+1986,61.0,hospitals,65.0,70.0,someone else,no,self-employed,personal financial advisors,"securities, commodities, funds, trusts, and other financial investments",Healthcare,Other
+1986,47.0,banking,60.0,60.0,self-employed,no,someone else,retail salespersons,department stores and discount stores,Business & Finance,Retail & Services
+1986,38.0,eating and drinking places,56.0,10.0,self-employed,no,self-employed,food service managers,restaurants and other food services,Other,Other
+1986,82.0,"offices of health practitioners,n.e.c.",60.0,5.0,self-employed,no,self-employed,secretaries and administrative assistants,offices of physicians,Other,Healthcare
+1986,31.0,"wholesalers, n.e.c.",30.0,20.0,someone else,yes,someone else,first-line supervisors of non-retail sales workers,"machinery, equipment, and supplies, merchant wholesalers",Other,Other
+1986,60.0,elementary and secondary schools,40.0,55.0,someone else,no,someone else,"sales representatives,  wholesale and manufacturing",computer systems design and related services,Education,Other
+1986,19.0,farm products-raw materials,62.0,10.0,someone else,no,someone else,first-line supervisors of office and administrative support workers,postal service,Other,Other
+1986,32.0,warehousing and storage,50.0,10.0,someone else,no,someone else,"nursing, psychiatric, and home health aides",nursing care facilities,Other,Healthcare
+1986,23.0,"educational services, n.e.c.",50.0,0.0,self-employed,yes,someone else,"other installation, maintenance, and repair workers","forestry, except logging",Education,Other
+1986,61.0,federal public administration,60.0,12.0,someone else,yes,someone else,computer systems analysts,public finance activities,Other,Other
+1986,32.0,"sawmills, planing mills, and  mill work",54.0,6.0,someone else,no,someone else,photographers,"other professional, scientific, and technical services",Other,Other
+1986,37.0,automobile repair and related services,52.0,8.0,self-employed,no,someone else,cashiers,grocery stores,Other,Retail & Services
+1986,34.0,"machinery, except electrical, n.e.c.",60.0,0.0,someone else,yes,someone else,education administrators,"colleges and universities, including junior colleges",Other,Education
+1986,58.0,"business services, n.e.c.",60.0,0.0,self-employed,no,self-employed,"property, real estate, and community association managers",real estate,Business & Finance,Business & Finance
+1986,50.0,miscellaneous wood products,50.0,15.0,someone else,yes,someone else,"office clerks, general",truck transportation,Other,Other
+1986,62.0,"general contractors, except building",22.0,15.0,someone else,no,someone else,carpenters,construction,Other,Manufacturing & Engineering
+1986,37.0,colleges and universities,50.0,25.0,someone else,yes,someone else,first-line supervisors of production and operating workers,fruit and vegetable preserving and specialty food manufacturing,Education,Other
+1986,50.0,miscellaneous repair services,6.0,15.0,someone else,no,someone else,carpenters,furniture and home furnishings stores,Other,Other
+1986,50.0,soaps and cosmetics,62.0,30.0,someone else,no,someone else,designers,retail florists,Other,Other
+1986,47.0,electronic computing equipment,40.0,10.0,someone else,no,someone else,retail salespersons,department stores and discount stores,Other,Retail & Services
+1986,40.0,aircraft and parts,46.0,25.0,someone else,no,someone else,first-line supervisors of construction trades and extraction workers,"electronic component and product manufacturing, n.e.c.",Other,Other
+1986,47.0,"radio, t.v., and communication equipment",40.0,15.0,someone else,yes,someone else,"welding, soldering, and brazing workers","electric power generation, transmission, and distribution",Other,Other
+1986,50.0,miscellaneous retail stores,80.0,30.0,someone else,yes,someone else,computer operators,"architectural, engineering, and related services",Other,Manufacturing & Engineering
+1986,63.0,elementary and secondary schools,55.0,10.0,someone else,no,someone else,childcare workers,elementary and secondary schools,Education,Education
+1986,39.0,"accounting, auditing, and bookkeeping services",35.0,12.0,someone else,no,self-employed,accountants and auditors,"accounting, tax preparation, bookkeeping, and payroll services",Other,Other
+1986,50.0,department and mail order establishments,40.0,50.0,someone else,no,someone else,retail salespersons,department stores and discount stores,Other,Retail & Services
+1986,33.0,gas and steam supply systems,40.0,30.0,someone else,no,someone else,psychologists,"residential care facilities, without nursing",Other,Other
+1986,34.0,not specified food industries,75.0,3.0,someone else,no,someone else,registered nurses,hospitals,Other,Healthcare
+1986,76.0,state public administration,55.0,10.0,someone else,no,someone else,tellers,banking and related activities,Other,Business & Finance
+1986,45.0,machinery equipment and supplies,40.0,20.0,someone else,no,someone else,"hairdressers, hairstylists, and cosmetologists",beauty salons,Other,Other
+1986,34.0,lumber and construction materials,40.0,0.0,self-employed,no,someone else,registered nurses,vocational rehabilitation services,Manufacturing & Engineering,Other
+1986,26.0,eating and drinking places,31.0,15.0,someone else,no,someone else,"transportation, storage, and distribution managers",truck transportation,Other,Other
+1986,50.0,scrap and waste materials,60.0,1.0,self-employed,yes,self-employed,"pressers, textile, garment, and related materials",apparel accessories and other apparel manufacturing,Other,Other
+1986,50.0,"real estate, incl. real estate-insurance-law offices",43.0,5.0,someone else,no,someone else,secretaries and administrative assistants,department stores and discount stores,Business & Finance,Retail & Services
+1986,32.0,trucking service,60.0,40.0,someone else,no,someone else,designers,not specified retail trade,Other,Retail & Services
+1986,42.0,convalescent institutions,36.0,11.0,someone else,no,someone else,"forging machine setters, operators, and tenders, metal and plastic",iron and steel mills and steel product manufacturing,Other,Other
+1986,50.0,grocery stores,50.0,1.0,self-employed,no,self-employed,"farmers, ranchers, and other agricultural managers",animal production,Retail & Services,Other
+1986,58.0,"business services, n.e.c.",44.0,97.0,someone else,yes,someone else,elementary and middle school teachers,elementary and secondary schools,Business & Finance,Education
+1986,46.0,religious organizations,40.0,15.0,someone else,no,someone else,"pipelayers, plumbers, pipefitters, and steamfitters","colleges and universities, including junior colleges",Other,Education
+1986,40.0,general building contractors,46.0,30.0,someone else,no,someone else,secretaries and administrative assistants,furniture and home furnishings stores,Other,Other
+1986,46.0,colleges and universities,39.0,30.0,someone else,no,someone else,"electrical, electronics, and electromechanical assemblers","professional and commercial equipment and supplies, merchant wholesalers",Education,Other
+1986,45.0,general building contractors,40.0,30.0,someone else,no,someone else,waiters and waitresses,traveler accommodation,Other,Other
+1986,61.0,colleges and universities,35.0,30.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Education,Education
+1986,36.0,"health services, n.e.c.",37.0,45.0,someone else,yes,self-employed,home appliance repairers,personal and household goods repair and maintenance,Other,Other
+1986,78.0,elementary and secondary schools,50.0,35.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Education,Education
+1986,45.0,hospitals,20.0,10.0,someone else,no,someone else,"nursing, psychiatric, and home health aides",hospitals,Healthcare,Healthcare
+1986,51.0,elementary and secondary schools,45.0,10.0,someone else,no,someone else,secretaries and administrative assistants,elementary and secondary schools,Education,Education
+1986,32.0,trucking service,70.0,90.0,someone else,no,someone else,bus drivers,elementary and secondary schools,Other,Education
+1986,50.0,motor vehicle dealers,35.0,20.0,someone else,no,self-employed,retail salespersons,fuel dealers,Other,Other
+1986,67.0,engineering and architectural services,40.0,10.0,someone else,no,someone else,secretaries and administrative assistants,"motor vehicles, parts and supplies, merchant wholesalers",Manufacturing & Engineering,Manufacturing & Engineering
+1986,37.0,"automobile services, except repair",40.0,0.0,self-employed,yes,someone else,secretaries and administrative assistants,traveler accommodation,Other,Other
+1986,63.0,elementary and secondary schools,40.0,2.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Education,Education
+1986,32.0,paperboard containers and boxes,40.0,30.0,someone else,no,someone else,driver/sales workers and truck drivers,"groceries and related products, merchant wholesalers",Other,Other
+1986,62.0,elementary and secondary schools,24.0,20.0,someone else,no,self-employed,first-line supervisors of non-retail sales workers,"miscellaneous durable goods, merchant wholesalers",Education,Other
+1986,28.0,trucking service,47.0,15.0,someone else,no,someone else,"bookkeeping, accounting, and auditing clerks",miscellaneous retail stores,Other,Other
+1986,50.0,"agricultural services, except horticultural",72.0,14.0,someone else,no,someone else,postal service mail carriers,postal service,Other,Other
+1986,50.0,motor vehicle dealers,60.0,7.0,self-employed,yes,someone else,secretaries and administrative assistants,insurance carriers and related activities,Other,Business & Finance
+1986,20.0,eating and drinking places,5.0,9.0,someone else,no,self-employed,retail salespersons,lawn and garden equipment and supplies stores,Other,Other
+1986,41.0,warehousing and storage,50.0,5.0,someone else,no,someone else,accountants and auditors,public finance activities,Other,Other
+1986,34.0,glass and glass products,12.0,30.0,self-employed,no,someone else,postal service mail carriers,postal service,Other,Other
+1986,42.0,convalescent institutions,32.0,5.0,someone else,no,someone else,marketing and sales managers,oil and gas extraction,Other,Other
+1986,60.0,elementary and secondary schools,50.0,15.0,someone else,no,someone else,clinical laboratory technologists and technicians,hospitals,Education,Healthcare
+1986,46.0,"business services, n.e.c.",20.0,10.0,someone else,no,someone else,retail salespersons,"auto parts, accessories, and tire stores",Business & Finance,Other
+1986,34.0,soaps and cosmetics,20.0,0.0,self-employed,no,someone else,clergy,religious organizations,Other,Other
+1986,40.0,"sawmills, planing mills, and  mill work",40.0,5.0,someone else,no,someone else,secretaries and administrative assistants,oil and gas extraction,Other,Other
+1986,45.0,crude petroleum and natural gas extractions,70.0,2.0,someone else,no,self-employed,"hairdressers, hairstylists, and cosmetologists",beauty salons,Other,Other
+1986,31.0,banking,44.0,3.0,someone else,no,someone else,accountants and auditors,management of companies and enterprises,Business & Finance,Other
+1986,36.0,banking,40.0,20.0,someone else,no,self-employed,"farmers, ranchers, and other agricultural managers",animal production,Business & Finance,Other
+1986,47.0,insurance,50.0,5.0,someone else,no,someone else,secretaries and administrative assistants,"justice, public order, and safety activities",Business & Finance,Other
+1986,42.0,motor vehicles and motor vehicle equipment,40.0,7.0,someone else,no,someone else,registered nurses,hospitals,Manufacturing & Engineering,Healthcare
+1986,50.0,miscellaneous retail stores,10.0,12.0,self-employed,yes,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,32.0,farm machinery and equipment,40.0,50.0,someone else,no,someone else,secretaries and administrative assistants,nonmetallic mineral mining and quarrying,Other,Other
+1986,36.0,"general contractors, except building",50.0,2.0,someone else,no,someone else,teacher assistants,elementary and secondary schools,Other,Education
+1986,49.0,nonprofit membership organizations,35.0,0.0,someone else,no,someone else,secretaries and administrative assistants,"civic, social, advocacy organizations, and grantmaking and giving services",Other,Other
+1986,31.0,motor vehicle dealers,40.0,20.0,someone else,no,self-employed,construction laborers,construction,Other,Manufacturing & Engineering
+1986,43.0,elementary and secondary schools,35.0,4.0,someone else,no,someone else,automotive service technicians and mechanics,automotive repair and maintenance,Education,Other
+1986,36.0,convalescent institutions,32.0,25.0,someone else,no,someone else,"welding, soldering, and brazing workers",motor vehicles and motor vehicle equipment manufacturing,Other,Manufacturing & Engineering
+1986,27.0,electronic computing equipment,40.0,30.0,someone else,no,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,27.0,agricultural production,37.0,17.0,someone else,yes,someone else,clinical laboratory technologists and technicians,outpatient care centers,Other,Other
+1986,50.0,miscellaneous paper and pulp products,53.0,25.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,60.0,not specified educational services,45.0,15.0,someone else,no,someone else,carpenters,labor unions,Education,Other
+1986,54.0,food and related products,50.0,15.0,someone else,no,someone else,elementary and middle school teachers,elementary and secondary schools,Other,Education
+1986,17.0,special trade contractors,40.0,35.0,someone else,no,someone else,sewing machine operators,motor vehicles and motor vehicle equipment manufacturing,Other,Manufacturing & Engineering
+1986,32.0,miscellaneous fabricated metal products,40.0,20.0,someone else,no,someone else,grounds maintenance workers,"other amusement, gambling, and recreation industries",Other,Other
+1986,30.0,automobile repair and related services,50.0,2.0,self-employed,no,self-employed,first-line supervisors of non-retail sales workers,personal and household goods repair and maintenance,Other,Other
+1986,60.0,elementary and secondary schools,14.0,10.0,someone else,no,someone else,driver/sales workers and truck drivers,fuel dealers,Education,Other
+1986,50.0,special trade contractors,89.0,45.0,self-employed,no,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,42.0,convalescent institutions,40.0,30.0,someone else,no,someone else,"extruding, forming, pressing, and compacting machine setters,","rubber product, except tire, manufacturing",Other,Other
+1986,40.0,general building contractors,40.0,60.0,someone else,yes,someone else,sewing machine operators,cut and sew apparel manufacturing,Other,Other
+1986,56.0,aircraft and parts,44.0,45.0,someone else,yes,someone else,miscellaneous entertainment attendants and related workers,cut and sew apparel manufacturing,Other,Other
+1986,17.0,local public administration,40.0,10.0,someone else,yes,self-employed,childcare workers,child day care services,Other,Other
+1986,33.0,beauty shops,40.0,10.0,someone else,yes,someone else,"military, rank not specified",national security and international affairs,Other,Other
+1986,61.0,colleges and universities,40.0,30.0,someone else,no,someone else,secondary school teachers,elementary and secondary schools,Education,Education
+1986,50.0,general building contractors,40.0,40.0,someone else,yes,someone else,chief executives,banking and related activities,Other,Business & Finance
+1986,43.0,postal service,30.0,5.0,someone else,yes,someone else,small engine mechanics,personal and household goods repair and maintenance,Other,Other
+1986,20.0,eating and drinking places,25.0,3.0,someone else,yes,self-employed,first-line supervisors of non-retail sales workers,automotive repair and maintenance,Other,Other
+1986,36.0,"health services, n.e.c.",30.0,10.0,someone else,no,someone else,"butchers and other meat, poultry, and fish processing workers",animal slaughtering and processing,Other,Other
+1986,48.0,"health services, n.e.c.",40.0,5.0,someone else,no,someone else,"inspectors, testers, sorters, samplers, and weighers",animal slaughtering and processing,Other,Other
+1986,34.0,not specified food industries,48.0,5.0,someone else,no,someone else,customer service representatives,administration of human resource programs,Other,Other
+1986,33.0,barber shops,35.0,0.0,self-employed,no,someone else,heavy vehicle and mobile equipment service technicians and mechanics,lawn and garden equipment and supplies stores,Other,Other
+1986,46.0,insurance,40.0,5.0,someone else,yes,someone else,management analysts,hardware stores,Business & Finance,Other
+1986,48.0,banking,36.0,5.0,someone else,yes,someone else,operating engineers and other construction equipment  operators,construction,Business & Finance,Manufacturing & Engineering
+1986,60.0,elementary and secondary schools,40.0,15.0,someone else,no,someone else,education administrators,elementary and secondary schools,Education,Education
+1986,57.0,"accounting, auditing, and bookkeeping services",60.0,1.0,self-employed,no,self-employed,lawyers,legal services,Other,Other
+1986,25.0,apparel and accessories,45.0,20.0,someone else,no,someone else,janitors and building cleaners,elementary and secondary schools,Other,Education
+1986,39.0,"health services, n.e.c.",20.0,5.0,someone else,yes,self-employed,"farmers, ranchers, and other agricultural managers",animal production,Other,Other
+1986,52.0,welfare services,50.0,15.0,someone else,no,self-employed,miscellaneous agricultural workers,crop production,Other,Other
+1986,45.0,apparel and accessories,45.0,10.0,someone else,no,someone else,firefighters,"justice, public order, and safety activities",Other,Other
+1986,22.0,local public administration,84.0,5.0,someone else,no,someone else,packaging and filling machine operators and tenders,plastics product manufacturing,Other,Other
+1986,29.0,motor vehicles and motor vehicle equipment,89.0,10.0,someone else,no,someone else,sewing machine operators,cut and sew apparel manufacturing,Manufacturing & Engineering,Other
+1986,30.0,advertising,41.0,1.0,someone else,no,someone else,personal care aides,individual and family services,Other,Other
+1986,70.0,air transportation,30.0,24.0,someone else,no,someone else,flight attendants,air transportation,Other,Other
+1986,40.0,general building contractors,21.0,30.0,self-employed,no,self-employed,bakers,retail bakeries,Other,Other
+1986,26.0,elementary and secondary schools,35.0,10.0,someone else,no,someone else,"cutting, punching, and press machine setters, operators, and tenders, metal and plastic","electrical lighting and electrical equipment manufacturing, and other electrical component manufacturing, n.e.c.",Education,Other
+1986,36.0,convalescent institutions,48.0,5.0,someone else,no,someone else,stock clerks and order fillers,grocery stores,Other,Retail & Services
+1986,31.0,miscellaneous fabricated textile products,40.0,5.0,someone else,no,someone else,driver/sales workers and truck drivers,"machinery, equipment, and supplies, merchant wholesalers",Other,Other
+1986,51.0,elementary and secondary schools,8.0,15.0,someone else,no,someone else,industrial production managers,"machinery manufacturing, n.e.c.",Education,Other
+1986,46.0,logging,15.0,0.0,someone else,no,self-employed,millwrights,construction,Other,Manufacturing & Engineering
+1986,39.0,local public administration,35.0,20.0,someone else,no,someone else,"drywall installers, ceiling tile installers, and tapers",construction,Other,Manufacturing & Engineering
+1986,26.0,logging,30.0,60.0,someone else,no,someone else,shoe machine operators and tenders,footwear manufacturing,Other,Other
+1986,37.0,"hardware, plumbing, and heating supplies",55.0,10.0,someone else,no,self-employed,childcare workers,child day care services,Other,Other
+1986,37.0,automobile repair and related services,45.0,5.0,someone else,yes,someone else,secretaries and administrative assistants,hospitals,Other,Healthcare
+1986,29.0,rubber products,37.0,20.0,someone else,no,someone else,helpers-production workers,individual and family services,Other,Other
+1986,50.0,grocery stores,70.0,15.0,someone else,no,someone else,tellers,banking and related activities,Retail & Services,Business & Finance
+1986,40.0,special trade contractors,30.0,10.0,someone else,yes,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,50.0,"real estate, incl. real estate-insurance-law offices",50.0,5.0,someone else,yes,someone else,carpenters,construction,Business & Finance,Manufacturing & Engineering
+1986,41.0,special trade contractors,50.0,40.0,someone else,no,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,36.0,elementary and secondary schools,30.0,10.0,someone else,no,someone else,"inspectors, testers, sorters, samplers, and weighers",beverage manufacturing,Education,Other
+1986,61.0,local public administration,40.0,5.0,someone else,no,someone else,bus drivers,elementary and secondary schools,Other,Education
+1986,45.0,special trade contractors,40.0,2.0,self-employed,yes,someone else,waiters and waitresses,restaurants and other food services,Other,Other
+1986,40.0,petroleum refining,82.0,15.0,self-employed,no,someone else,secretaries and administrative assistants,"savings institutions, including credit unions",Other,Other
+1986,45.0,hardware and farm equipment stores,38.0,5.0,someone else,yes,someone else,driver/sales workers and truck drivers,truck transportation,Other,Other
+1986,50.0,local public administration,40.0,5.0,someone else,no,someone else,first-line supervisors of production and operating workers,newspaper publishers,Other,Other
+1986,50.0,state public administration,45.0,10.0,someone else,no,someone else,retail salespersons,mail order houses,Other,Other
